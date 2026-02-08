@@ -38,3 +38,6 @@
 - `ab_test_analysis.ipynb` - основной ноутбук с анализом
 - `presentation.pdf` - краткая презентация результатов (опционально)
 - `requirements.txt` - зависимости
+
+<img width="465" height="273" alt="image" src="https://github.com/user-attachments/assets/ca4ec544-1533-417b-ba1e-28af541881df" />
+
