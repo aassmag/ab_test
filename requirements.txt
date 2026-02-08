@@ -1,0 +1,10 @@
+numpy>2
+ipywidgets
+matplotlib
+torch
+torchvision
+transformers
+pandas
+seaborn
+scipy
+statsmodels
